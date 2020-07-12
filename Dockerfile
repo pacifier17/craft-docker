@@ -1,4 +1,4 @@
-FROM wyveo/nginx-php-fpm:php73
+FROM pacifier17/nginx-php-fpm-docker:php73-buster
 
 LABEL maintainer pacifier17
 
